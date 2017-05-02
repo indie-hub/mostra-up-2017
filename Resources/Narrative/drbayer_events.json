@@ -1,0 +1,15 @@
+{
+  "SceneName": "drbayer",
+  "eventTarget": {
+    "Wizard3": {
+      "Start": {
+        "Name": "ahOlJovemDeCaraT",
+        "Flag": false
+      },
+      "Repeat": {
+        "Name": "aueresAjudarme",
+        "Flag": "end_quest"
+      }
+    }
+  }
+}

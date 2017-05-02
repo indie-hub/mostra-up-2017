@@ -1,0 +1,15 @@
+{
+  "SceneName": "final",
+  "eventTarget": {
+    "Wizard5": {
+      "Start": {
+        "Name": "ahAhJViQueConseg",
+        "Flag": false
+      },
+      "Repeat": {
+        "Name": "ahAhJViQueConseg",
+        "Flag": "end_quest"
+      }
+    }
+  }
+}
